@@ -1,5 +1,5 @@
 ---
-name: issue template
+name: Issue Template
 about: 템플릿 형식에 맞춰 이슈를 생성해주세요 !
 title: ''
 labels: ''
